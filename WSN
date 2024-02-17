@@ -1,0 +1,13 @@
+Wireless Sensor Network (WSN) is one of the most common techniques in different applications such as 
+health care, agriculture, factory monitoring and fire track. WSN has many advantages as they are 
+responsible for maintaining network paths, data forwarding, and ensuring reliable multi-hop 
+communication. Wireless communication face problems mainly in maintaining lifetime of the network 
+and its energy. To overcome these limitations we use LEACH (low energy adaptive clustering hierarchy) 
+protocol, which is the protocol of cluster routing. Additional, we modify one of the most bulging 
+wireless sensor network’s routing protocol “LEACH” as “MODLEACH” by introducing efficient cluster 
+head replacement scheme and dual transmitting power levels. MODLEACH, in comparison with 
+LEACH out performs it using metrics of clusters head formation, throughput and network life. Later, 
+hard and soft thresholds are implemented on MODLEACH that boast the performance even more. 
+Finally, a brief performance analysis of LEACH, modified LEACH (MODLEACH), MODLEACH with 
+hard threshold (MODLEACHHT) and MODLEACH with soft threshold (MODLEACHST) is 
+undertaken considering metrics of throughput, networks life and cluster head replacements.
